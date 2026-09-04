@@ -1,4 +1,4 @@
-const CACHE = "japon-2026-71b713e86e4f";
+const CACHE = "japon-2026-ecdce3817866";
 const BASE = location.pathname.replace(/\/[^/]*$/, "/");
 const RECURSOS = [BASE, BASE + "index.html", BASE + "manifest.json",
                   BASE + "icono-192.png", BASE + "icono-512.png",
